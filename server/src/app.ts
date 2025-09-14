@@ -2,7 +2,7 @@ import express, { Express, Request, Response } from "express";
 import cors from "cors";
 import { router } from "./app/routes";
 import notFoundMiddleware from "./app/middleware/notFound";
-import globalErrorHandler from "./app/middleware/globalErrorHandeler";
+import globalErrorHandler from "./app/middleware/globalErrorHandler";
 import cookieParser from "cookie-parser";
 const app: Express = express();
 
