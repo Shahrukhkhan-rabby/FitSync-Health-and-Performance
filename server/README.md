@@ -8,7 +8,7 @@ FitSync is a full-featured Gym Class Scheduling and Membership Management System
 
 ## Relation Diagram
 
-![Relation Diagram](https://raw.githubusercontent.com/engrsakib/FitSync-Health-and-Performance/main/assets/relation-diagram.png)
+![Relation Diagram](https://raw.githubusercontent.com/Shahrukhkhan-rabby/FitSync-Health-and-Performance/main/assets/relation-diagram.png)
 <!-- If your diagram is hosted elsewhere, update the link above. If you don't have an image, use any free diagram tool (dbdiagram.io, draw.io), export as PNG/JPG, and upload in the repo. -->
 
 ---
@@ -120,7 +120,7 @@ FitSync is a full-featured Gym Class Scheduling and Membership Management System
 
 ## Admin Credentials
 
-> **Admin Email:** `sakib@gamil.com`  
+> **Admin Email:** `shahrukhkhan3418198@gmail.com`  
 > **Admin Password:** `1445uIoG@`
 
 ---
@@ -130,7 +130,7 @@ FitSync is a full-featured Gym Class Scheduling and Membership Management System
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/engrsakib/FitSync-Health-and-Performance.git
+git clone https://github.com/Shahrukhkhan-rabby/FitSync-Health-and-Performance
 cd FitSync-Health-and-Performance
 ```
 
@@ -214,4 +214,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any queries, contact [sakib@gamil.com](mailto:sakib@gamil.com)
+For any queries, contact [shahrukhkhan3418198@gmail.com](mailto:shahrukhkhan3418198@gmail.com)
