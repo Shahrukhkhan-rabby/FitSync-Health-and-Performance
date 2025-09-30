@@ -72,9 +72,9 @@ export default function LoginPage() {
   // console.log(pass)
 
   const demoUsers = [
-    { email: "sakib@gamil.com", password: pass, role: "Admin" },
-    { email: "bushra@gmail.com", password: pass, role: "Trainer" },
-    { email: "humayra@gmail.com", password: pass, role: "Trainee" },
+    { email: "shahrukh@gamil.com", password: pass, role: "Admin" },
+    { email: "fozlay@gmail.com", password: pass, role: "Trainer" },
+    { email: "faiza@gmail.com", password: pass, role: "Trainee" },
   ]
 
   const fillDemoCredentials = (email: string, password: string) => {

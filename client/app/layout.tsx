@@ -35,7 +35,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${inter.variable} ${playfair.variable}`}>
-      <body className="min-h-screen bg-background font-sans antialiased">
+      <body className={`${inter.variable} ${playfair.variable} min-h-screen bg-background font-sans antialiased`}>
         <Providers>
           <ProtectedRoute>
             <Navbar />
